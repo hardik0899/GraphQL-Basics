@@ -1,3 +1,3 @@
-# lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+# graphql-basic-api
+
+Learning to implement graphql using nodejs.
